@@ -1,2 +1,2 @@
 # boxGame
-## Patika Academy Java 101 - boxGame
+## Patika Academy Java 101 - boxingGame
